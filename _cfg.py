@@ -1,0 +1,1 @@
+SQL_URI_WEBAPP = "postgresql://nubela:040312@localhost/cliqz"
